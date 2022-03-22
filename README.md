@@ -20,4 +20,4 @@ This dataset consists of categorical & numerical data. Attrition is the target c
 
 ## Algorithm Used --> Random Forest<br>
 ## Accuracy Achieved --> 95.23809523809523% ~ 95%<br>
-# Created By ~ Nishant Sarang
+### Created By ~ Nishant Sarang
