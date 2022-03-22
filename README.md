@@ -17,6 +17,6 @@ We will create a model with the following steps:<br>
 This dataset is regaurding the employees who want to either leave their jobs or continue with to work. The same thing is described in the column named as Attrition in the form of "yes" or "no".
 This dataset consists of categorical & numerical data. Attrition is the target column in the dataset while rest other can be features to train the Machine Learning model. We need to analyze the given dataset & build an appropriate Machine Learning model with Higher Accuracy
 
-## Results
+## Results:
 
 ### Algorithm Used --> Random Forest<br>Accuracy Achieved --> 95.23809523809523% ~ 95%<br>Created By ~ Nishant Sarang
